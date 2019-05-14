@@ -5,7 +5,7 @@ import java.math.*;
 import java.util.regex.*;
 
 public class Solution {
-
+    
     public static void main(String[] args) {
             long sum = 0;
             boolean prime[] = new boolean[1000000+1]; 
